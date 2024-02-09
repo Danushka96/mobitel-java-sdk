@@ -20,11 +20,11 @@
             <artifactId>esmslib</artifactId>
             <version>1.0</version>
         </dependency>
-        <dependency>
-            <groupId>javax.xml.ws</groupId>
-            <artifactId>jaxws-api</artifactId>
-            <version>2.3.1</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>javax.xml.ws</groupId>-->
+<!--            <artifactId>jaxws-api</artifactId>-->
+<!--            <version>2.3.1</version>-->
+<!--        </dependency>-->
     </dependencies>
 
 </project>
